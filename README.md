@@ -1,16 +1,37 @@
-# todo_app
+# Todo App Sample
 
-A new Flutter project.
+This repository contains a sample implementation of a Todo App. It serves as a basic example to showcase the functionality of a todo application.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+The Todo App Sample offers the following features:
 
-A few resources to get you started if this is your first Flutter project:
+1. Adding new tasks: Users can add new tasks to the todo list.
+2. Marking tasks as complete: Users can mark tasks as complete once they are done.
+3. Removing tasks: Users can remove tasks from the list.
+4. Viewing the list: Users can view the list of tasks.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Clone the repository
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/its-rlee/todo_app_sample.git
+```
+
+## Technologies Used
+
+The Todo App Sample is built using Flutter/Dart and following technologies:
+
+- BloC for state managing
+- Cloud Firestore for data storage
+
+## Contributing
+
+Contributions are welcome! If you find any issues or want to add new features, please open an issue or submit a pull request on GitHub.
+
+## License
+
+The Todo App Sample is open-source software licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+
+## Contact
+
+If you have any questions or suggestions regarding the Todo App Sample, feel free to contact the project maintainer at [hello.rlee@example.com](mailto:hello.rlee@example.com).
