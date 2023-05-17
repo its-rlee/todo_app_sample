@@ -22,7 +22,7 @@ git clone https://github.com/its-rlee/todo_app_sample.git
 The Todo App Sample is built using Flutter/Dart and following technologies:
 
 - BloC for state managing
-- Cloud Firestore for data storage
+- Cloud Firestore for data storage, setted up for Android
 
 ## Contributing
 
