@@ -24,6 +24,14 @@ The Todo App Sample is built using Flutter/Dart and following technologies:
 - BloC for state managing
 - Cloud Firestore for data storage, setted up for Android
 
+## Screenshots
+
+### Todo-list
+<img src="./assets/imgs/1.png" width="300">
+
+### Add new todo
+<img src="./assets/imgs/2.png" width="300">
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or want to add new features, please open an issue or submit a pull request on GitHub.
